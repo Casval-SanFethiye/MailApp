@@ -23,7 +23,6 @@ Fill these variables with your datas
 ```js
 EMAIL=your_email_address@gmail.com
 PASSWORD=your_secret_password_or_gmail_token
-RECEIVER_EMAIL=receiver_email_adress@domain.com
 ```
 
 ### Install
